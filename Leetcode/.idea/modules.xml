@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArticulationPoint/ArticulationPoint.iml" filepath="$PROJECT_DIR$/ArticulationPoint/ArticulationPoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BFS Map with Override Hashcode&amp;Equals/BFS Map with Override Hashcode&amp;Equals.iml" filepath="$PROJECT_DIR$/BFS Map with Override Hashcode&amp;Equals/BFS Map with Override Hashcode&amp;Equals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Copy List with Random Pointer/Copy List with Random Pointer.iml" filepath="$PROJECT_DIR$/Copy List with Random Pointer/Copy List with Random Pointer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Leetcode.iml" filepath="$PROJECT_DIR$/.idea/Leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Min Cost using HuffmanTree/Min Cost using HuffmanTree.iml" filepath="$PROJECT_DIR$/Min Cost using HuffmanTree/Min Cost using HuffmanTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PriorityQueue based Search Suggestion/PriorityQueue based Search Suggestion.iml" filepath="$PROJECT_DIR$/PriorityQueue based Search Suggestion/PriorityQueue based Search Suggestion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reorder Logs using PriorityQueue&amp;Override Comparator/Reorder Logs using PriorityQueue&amp;Override Comparator.iml" filepath="$PROJECT_DIR$/Reorder Logs using PriorityQueue&amp;Override Comparator/Reorder Logs using PriorityQueue&amp;Override Comparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchSuggestionSystem/SearchSuggestionSystem.iml" filepath="$PROJECT_DIR$/SearchSuggestionSystem/SearchSuggestionSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sliding Window-Subarray with k unique values/Sliding Window-Subarray with k unique values.iml" filepath="$PROJECT_DIR$/Sliding Window-Subarray with k unique values/Sliding Window-Subarray with k unique values.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Song Genres Statistics/Song Genres Statistics.iml" filepath="$PROJECT_DIR$/Song Genres Statistics/Song Genres Statistics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Substrings of Size K with K Different Chars/Substrings of Size K with K Different Chars.iml" filepath="$PROJECT_DIR$/Substrings of Size K with K Different Chars/Substrings of Size K with K Different Chars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Subtree of Another Tree/Subtree of Another Tree.iml" filepath="$PROJECT_DIR$/Subtree of Another Tree/Subtree of Another Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TopNBuzzwords/TopNBuzzwords.iml" filepath="$PROJECT_DIR$/TopNBuzzwords/TopNBuzzwords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TreasureHunt/TreasureHunt.iml" filepath="$PROJECT_DIR$/TreasureHunt/TreasureHunt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TreasureHunt2/TreasureHunt2.iml" filepath="$PROJECT_DIR$/TreasureHunt2/TreasureHunt2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Two Pointers/Two Pointers.iml" filepath="$PROJECT_DIR$/Two Pointers/Two Pointers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Two Sum using HashMap&amp;Two Pointers/Two Sum using HashMap&amp;Two Pointers.iml" filepath="$PROJECT_DIR$/Two Sum using HashMap&amp;Two Pointers/Two Sum using HashMap&amp;Two Pointers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZombieInMatrix/ZombieInMatrix.iml" filepath="$PROJECT_DIR$/ZombieInMatrix/ZombieInMatrix.iml" />
+    </modules>
+  </component>
+</project>
