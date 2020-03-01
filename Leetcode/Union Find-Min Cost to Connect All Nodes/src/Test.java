@@ -4,6 +4,7 @@ import java.util.PriorityQueue;
 import java.util.Set;
 import java.util.HashSet;
 
+// https://leetcode.com/discuss/interview-question/357310
 public class Test {
     public static void main(String[] args) {
         int n = 6;

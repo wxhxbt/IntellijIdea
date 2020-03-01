@@ -1,6 +1,6 @@
 import java.util.*;
 
-// "static void main" must be defined in a public class.
+// https://leetcode.com/problems/number-of-islands/
 public class Main {
     public static void main(String[] args) {
         char[][] grid = {{'1','1','1','0','1'},

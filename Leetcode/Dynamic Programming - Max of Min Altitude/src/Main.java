@@ -1,6 +1,6 @@
 import java.util.*;
 
-// "static void main" must be defined in a public class.
+// https://leetcode.com/discuss/interview-question/383669/
 public class Main {
     public static void main(String[] args) {
         int[][] map = {{10, 7, 3},

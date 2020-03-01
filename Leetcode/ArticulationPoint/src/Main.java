@@ -1,6 +1,6 @@
 import java.util.*;
 
-// "static void main" must be defined in a public class.
+// https://leetcode.com/discuss/interview-question/436073/
 public class Main {
     static int time = 0;
     static Map<Integer, Set<Integer>> map;

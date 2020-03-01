@@ -1,5 +1,6 @@
 import java.util.*;
 
+//https://leetcode.com/problems/prison-cells-after-n-days/
 public class Main {
     public static void main(String[] args){
         int[] Cells = {1,0,0,1,0,0,1,0};

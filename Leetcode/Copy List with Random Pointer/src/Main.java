@@ -1,6 +1,6 @@
 import java.util.*;
 
-// "static void main" must be defined in a public class.
+// https://leetcode.com/problems/copy-list-with-random-pointer/
 public class Main {
     public static void main(String[] args) {
         Node head = new Node(1);

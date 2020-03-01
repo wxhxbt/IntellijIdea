@@ -1,5 +1,6 @@
 import java.util.*;
 
+//https://leetcode.com/problems/search-suggestions-system/
 public class Main {
     public static void main(String[] args) {
         String[] products = {"abc", "bcd", "fgh", "bcde", "bcf", "bcdz", "bcfgh"};

@@ -4,6 +4,28 @@
     <list default="true" id="0882b9c0-5bd5-40f7-aef7-5273fbc23457" name="Default Changelist" comment="add Dynamic Programming - Max of Min Altitude">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArticulationPoint/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArticulationPoint/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BFS Map with Override Hashcode&amp;Equals/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/BFS Map with Override Hashcode&amp;Equals/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bottom-Up using Recursion - Subtree with Maximun Average/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bottom-Up using Recursion - Subtree with Maximun Average/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Copy List with Random Pointer/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Copy List with Random Pointer/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming - Max of Min Altitude/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming - Max of Min Altitude/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Min Cost using HuffmanTree/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Min Cost using HuffmanTree/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pattern Find with HashSet - Prison Cells after N Days/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pattern Find with HashSet - Prison Cells after N Days/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PriorityQueue based Search Suggestion/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/PriorityQueue based Search Suggestion/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reorder Logs using PriorityQueue&amp;Override Comparator/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reorder Logs using PriorityQueue&amp;Override Comparator/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchSuggestionSystem/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/SearchSuggestionSystem/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sliding Window-Subarray with k unique values/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sliding Window-Subarray with k unique values/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Song Genres Statistics/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Song Genres Statistics/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Substrings of Size K with K Different Chars/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Substrings of Size K with K Different Chars/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subtree of Another Tree/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Subtree of Another Tree/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TopNBuzzwords/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/TopNBuzzwords/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TreasureHunt/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/TreasureHunt/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TreasureHunt2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/TreasureHunt2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Two Pointers/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Two Pointers/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Two Sum using HashMap&amp;Two Pointers/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Two Sum using HashMap&amp;Two Pointers/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Union Find-Min Cost to Connect All Nodes/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Union Find-Min Cost to Connect All Nodes/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Union Find-Min Cost to Connect All Nodes/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Union Find-Min Cost to Connect All Nodes/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZombieInMatrix/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZombieInMatrix/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,24 +58,17 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Dynamic Programming - Max of Min Altitude" />
+      <module name="Two Pointers - Merge Intervals 56" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Pattern Find with HashSet - Prison Cells after N Days" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Traverse Two Times - Partiton String 763" />
+      <module name="BFS Map with Override Hashcode&amp;Equals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -65,9 +80,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="Union Find-Min Cost to Connect All Nodes" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Two Pointers - Load Balancer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Two Pointers" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -81,20 +103,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.test" />
       <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.Main (2)" />
-      <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.Main (5)" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -124,29 +146,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="367" y="111" key="CommitChangelistDialog2/0.0.1920.1040/-1920.633.1536.824@0.0.1920.1040" timestamp="1583033673291" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1583088200082">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1583098910510">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.633.1536.824@0.0.1920.1040" timestamp="1583088200082" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1583088200081">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.633.1536.824@0.0.1920.1040" timestamp="1583098910510" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1583098910510">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.633.1536.824@0.0.1920.1040" timestamp="1583088200081" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1583088200081">
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.633.1536.824@0.0.1920.1040" timestamp="1583098910510" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1583098910510">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.633.1536.824@0.0.1920.1040" timestamp="1583088200081" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1583088200082">
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.633.1536.824@0.0.1920.1040" timestamp="1583098910510" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1583098910510">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.633.1536.824@0.0.1920.1040" timestamp="1583088200082" />
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1583082224396">
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.633.1536.824@0.0.1920.1040" timestamp="1583098910510" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1583098940197">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.633.1536.824@0.0.1920.1040" timestamp="1583082224396" />
-    <state x="443" y="165" key="new project wizard" timestamp="1583088149418">
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.633.1536.824@0.0.1920.1040" timestamp="1583098940197" />
+    <state x="443" y="165" key="new project wizard" timestamp="1583097532786">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="443" y="165" key="new project wizard/0.0.1920.1040/-1920.633.1536.824@0.0.1920.1040" timestamp="1583088149418" />
+    <state x="443" y="165" key="new project wizard/0.0.1920.1040/-1920.633.1536.824@0.0.1920.1040" timestamp="1583097532786" />
   </component>
 </project>

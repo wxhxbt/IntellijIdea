@@ -1,6 +1,6 @@
 import java.util.*;
 
-// "static void main" must be defined in a public class.
+// https://leetcode.com/discuss/interview-question/411357/
 public class Main {
     public static void main(String[] args) {
         int[][] matrix = { { 0, 1, 1, 0, 1 },

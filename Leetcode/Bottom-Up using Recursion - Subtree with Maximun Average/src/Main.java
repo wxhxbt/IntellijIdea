@@ -1,5 +1,5 @@
 import java.util.*;
-// "static void main" must be defined in a public class.
+// https://leetcode.com/discuss/interview-question/349617
 public class Main {
     private static double max = Integer.MIN_VALUE;
     private static TreeNode maxNode;

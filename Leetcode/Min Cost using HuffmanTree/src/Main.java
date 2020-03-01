@@ -1,7 +1,7 @@
 import java.util.List;
 import java.util.PriorityQueue;
 import java.util.Arrays;
-// "static void main" must be defined in a public class.
+// https://leetcode.com/discuss/interview-question/344677
 public class Main {
     public static void main(String[] args) {
         List<Integer> ropes = Arrays.asList(new Integer[]{2, 2, 3, 3});

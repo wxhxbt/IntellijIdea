@@ -1,6 +1,6 @@
 import java.util.*;
 
-// "static void main" must be defined in a public class.
+// https://leetcode.com/problems/search-suggestions-system/
 public class Main {
     public static void main(String[] args) {
         String[] products = {"bags","bag","baggage"};
