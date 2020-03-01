@@ -36,7 +36,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Dynamic Programming - Max of Min Altitude" />
@@ -44,16 +44,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Sliding Window-Subarray with k unique values" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Two Sum using HashMap&amp;Two Pointers" />
+      <module name="Pattern Find with HashSet - Prison Cells after N Days" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -72,6 +65,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Union Find-Min Cost to Connect All Nodes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="$APPLICATION_HOME_DIR$/jbr" />
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -82,19 +82,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.test" />
-      <item itemvalue="Application.Main (4)" />
-      <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -124,29 +124,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="367" y="111" key="CommitChangelistDialog2/0.0.1920.1040/-1920.633.1536.824@0.0.1920.1040" timestamp="1583033673291" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1583033517526">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1583040995221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.633.1536.824@0.0.1920.1040" timestamp="1583033517526" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1583033517525">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.633.1536.824@0.0.1920.1040" timestamp="1583040995221" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1583040995221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.633.1536.824@0.0.1920.1040" timestamp="1583033517525" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1583033517525">
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.633.1536.824@0.0.1920.1040" timestamp="1583040995221" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1583040995221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.633.1536.824@0.0.1920.1040" timestamp="1583033517525" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1583033517526">
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.633.1536.824@0.0.1920.1040" timestamp="1583040995221" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1583040995221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.633.1536.824@0.0.1920.1040" timestamp="1583033517526" />
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1583020047165">
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.633.1536.824@0.0.1920.1040" timestamp="1583040995221" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1583037256641">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.633.1536.824@0.0.1920.1040" timestamp="1583020047165" />
-    <state x="400" y="151" key="new project wizard" timestamp="1583033485748">
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.633.1536.824@0.0.1920.1040" timestamp="1583037256641" />
+    <state x="400" y="151" key="new project wizard" timestamp="1583040791353">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="400" y="151" key="new project wizard/0.0.1920.1040/-1920.633.1536.824@0.0.1920.1040" timestamp="1583033485748" />
+    <state x="400" y="151" key="new project wizard/0.0.1920.1040/-1920.633.1536.824@0.0.1920.1040" timestamp="1583040791353" />
   </component>
 </project>
