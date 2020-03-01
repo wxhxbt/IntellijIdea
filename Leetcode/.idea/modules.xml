@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArticulationPoint/ArticulationPoint.iml" filepath="$PROJECT_DIR$/ArticulationPoint/ArticulationPoint.iml" />
       <module fileurl="file://$PROJECT_DIR$/BFS Map with Override Hashcode&amp;Equals/BFS Map with Override Hashcode&amp;Equals.iml" filepath="$PROJECT_DIR$/BFS Map with Override Hashcode&amp;Equals/BFS Map with Override Hashcode&amp;Equals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bottom-Up using Recursion - Subtree with Maximun Average/Bottom-Up using Recursion - Subtree with Maximun Average.iml" filepath="$PROJECT_DIR$/Bottom-Up using Recursion - Subtree with Maximun Average/Bottom-Up using Recursion - Subtree with Maximun Average.iml" />
       <module fileurl="file://$PROJECT_DIR$/Copy List with Random Pointer/Copy List with Random Pointer.iml" filepath="$PROJECT_DIR$/Copy List with Random Pointer/Copy List with Random Pointer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dynamic Programming - Max of Min Altitude/Dynamic Programming - Max of Min Altitude.iml" filepath="$PROJECT_DIR$/Dynamic Programming - Max of Min Altitude/Dynamic Programming - Max of Min Altitude.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Leetcode.iml" filepath="$PROJECT_DIR$/.idea/Leetcode.iml" />
@@ -17,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/Substrings of Size K with K Different Chars/Substrings of Size K with K Different Chars.iml" filepath="$PROJECT_DIR$/Substrings of Size K with K Different Chars/Substrings of Size K with K Different Chars.iml" />
       <module fileurl="file://$PROJECT_DIR$/Subtree of Another Tree/Subtree of Another Tree.iml" filepath="$PROJECT_DIR$/Subtree of Another Tree/Subtree of Another Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/TopNBuzzwords/TopNBuzzwords.iml" filepath="$PROJECT_DIR$/TopNBuzzwords/TopNBuzzwords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Traverse Two Times - Partiton String 763/Traverse Two Times - Partiton String 763.iml" filepath="$PROJECT_DIR$/Traverse Two Times - Partiton String 763/Traverse Two Times - Partiton String 763.iml" />
       <module fileurl="file://$PROJECT_DIR$/TreasureHunt/TreasureHunt.iml" filepath="$PROJECT_DIR$/TreasureHunt/TreasureHunt.iml" />
       <module fileurl="file://$PROJECT_DIR$/TreasureHunt2/TreasureHunt2.iml" filepath="$PROJECT_DIR$/TreasureHunt2/TreasureHunt2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Two Pointers/Two Pointers.iml" filepath="$PROJECT_DIR$/Two Pointers/Two Pointers.iml" />
